@@ -157,3 +157,25 @@ footer h2{
         position: relative;
     }
 }
+
+@media screen and (max-width: 495px){
+
+    #top--left h1{
+        font-size: 80px;
+        margin: 0;
+    }
+
+    #top--left h2{
+        font-size: 34px;
+        margin: 0;
+    }
+
+    .link--text{
+        font-size: 20px;
+    }
+
+    .main--paragraph{
+        font-size: 22px;
+    }
+
+}
